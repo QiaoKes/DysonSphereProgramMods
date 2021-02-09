@@ -1,0 +1,6 @@
+E:\c#\superFactory\superFactory\obj\Debug\superFactory.csproj.CoreCompileInputs.cache
+D:\Software\Steam\steamapps\common\Dyson Sphere Program\BepInEx\plugins\superFactory.dll
+D:\Software\Steam\steamapps\common\Dyson Sphere Program\BepInEx\plugins\superFactory.pdb
+E:\c#\superFactory\superFactory\obj\Debug\superFactory.dll
+E:\c#\superFactory\superFactory\obj\Debug\superFactory.pdb
+E:\c#\superFactory\superFactory\obj\Debug\superFactory.csprojAssemblyReference.cache
