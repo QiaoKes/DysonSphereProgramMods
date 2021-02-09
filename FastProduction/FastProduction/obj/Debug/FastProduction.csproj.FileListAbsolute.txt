@@ -1,5 +1,0 @@
-E:\c#\FastProduction\FastProduction\bin\Debug\FastProduction.dll
-E:\c#\FastProduction\FastProduction\bin\Debug\FastProduction.pdb
-E:\c#\FastProduction\FastProduction\obj\Debug\FastProduction.csproj.CoreCompileInputs.cache
-E:\c#\FastProduction\FastProduction\obj\Debug\FastProduction.dll
-E:\c#\FastProduction\FastProduction\obj\Debug\FastProduction.pdb
