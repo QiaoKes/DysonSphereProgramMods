@@ -1,5 +1,4 @@
 ﻿using System;
-using xiaoye97;
 using BepInEx;
 using BepInEx.Configuration;
 using HarmonyLib;
@@ -9,7 +8,6 @@ using System.Collections.Generic;
 
 namespace SuperSorterEx
 {
-    [BepInDependency("me.xiaoye97.plugin.Dyson.LDBTool", BepInDependency.DependencyFlags.HardDependency)]
     [BepInPlugin("tracing.plugin.SuperSorterEx", "SuperSorterEx", "1.0")]
     public class SuperSorterEx : BaseUnityPlugin
     {
